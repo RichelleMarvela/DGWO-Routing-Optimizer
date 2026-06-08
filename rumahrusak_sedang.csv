@@ -1,0 +1,39 @@
+kategori_bencana,provinsi,SUM(rumah_rusak_sedang)
+Banjir,Bali,1465
+Banjir,Maluku Utara,269
+Banjir,Lampung,869
+Banjir,Kepulauan Riau,7
+Banjir,Sumatera Barat,8216
+Banjir,Jawa Barat,5312
+Banjir,Kepulauan Bangka Belitung,5
+Banjir,Nusa Tenggara Timur,7252
+Banjir,Kalimantan Timur,6
+Banjir,Kalimantan Selatan,71
+Banjir,Papua Selatan,6
+Banjir,Papua Barat,1
+Banjir,Jambi,242
+Banjir,Riau,29
+Banjir,Jawa Tengah,942
+Banjir,Sulawesi Tenggara,1527
+Banjir,Daerah Istimewa Yogyakarta,14
+Banjir,Kalimantan Barat,80
+Banjir,Jawa Timur,3012
+Banjir,Sumatera Utara,4025
+Banjir,Sulawesi Selatan,1664
+Banjir,Sulawesi Utara,701
+Banjir,Kalimantan Utara,47
+Banjir,Papua,39
+Banjir,Sumatera Selatan,609
+Banjir,Papua Tengah,5
+Banjir,Gorontalo,103
+Banjir,Bengkulu,827
+Banjir,Nusa Tenggara Barat,3713
+Banjir,Aceh,60994
+Banjir,Papua Pegunungan,17
+Banjir,Sulawesi Tengah,574
+Banjir,Sulawesi Barat,277
+Banjir,Maluku,200
+Banjir,Papua Barat Daya,3
+Banjir,Banten,1400
+Banjir,DKI Jakarta,0
+Banjir,Kalimantan Tengah,103
