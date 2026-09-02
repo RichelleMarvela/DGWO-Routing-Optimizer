@@ -97,13 +97,7 @@ Consider exporting reproducible results to a `results/` folder when running long
 - Perform robust/stochastic optimization across multiple disaster realizations.
 - Add real-time adaptation to route updates (dynamic blocking events) and heterogeneous fleets.
 
-## License
-
-No license file is included. Add a LICENSE (for example MIT) if you want to open-source this project.
-
 ## Contact
 
 Repo owner: Richelle Marvela
 GitHub: https://github.com/RichelleMarvela
-
-If you want assistance running experiments, adding requirements.txt, or packaging the project, please open an issue or submit a PR.
